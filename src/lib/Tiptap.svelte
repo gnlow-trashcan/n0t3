@@ -1,7 +1,7 @@
 <script>
     import { onMount, onDestroy } from "svelte"
-    import { Editor } from "https://cdn.skypack.dev/@tiptap/core"
-    import StarterKit from "https://cdn.skypack.dev/@tiptap/starter-kit"
+    import { Editor } from "@tiptap/core"
+    import StarterKit from "@tiptap/starter-kit"
   
     let element
     let editor

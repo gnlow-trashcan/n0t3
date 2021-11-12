@@ -1,0 +1,5 @@
+{
+    "imports": {
+        "@tiptap/": "https://cdn.skypack.dev/@tiptap/"
+    }
+}
